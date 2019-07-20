@@ -1,0 +1,6 @@
+.vevn/
+.vscode/
+.env
+db.sqlite3
+.pyc
+.pyo
